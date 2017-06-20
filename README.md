@@ -16,7 +16,7 @@ chmod +x WordGen.py
 
 python WordGen.py 
 
-# for for examples
+# for examples
 
 python WordGen.py -n 200 -w Oseid Aldary -d /root/Desktop/wl.txt
 
