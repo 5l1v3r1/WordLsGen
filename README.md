@@ -24,7 +24,7 @@ python WordGen.py -n 200 -w Oseid Aldary -d /root/Desktop/wl.txt
 python WordGen.py -n 500 -w hello world -d /root/wordlist.txt
 
 
-# that's all 
+#  this is all
 
 
 thanks for using 
